@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form3PublicAPI.Standard", "Form3PublicAPI.Standard/Form3PublicAPI.Standard.csproj", "{551b650e-c0b9-4663-92c1-3446a16c25ba}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {551b650e-c0b9-4663-92c1-3446a16c25ba}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {551b650e-c0b9-4663-92c1-3446a16c25ba}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {551b650e-c0b9-4663-92c1-3446a16c25ba}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {551b650e-c0b9-4663-92c1-3446a16c25ba}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
